@@ -1,2 +1,0 @@
-# Amar
-First Github trail
